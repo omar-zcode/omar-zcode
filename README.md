@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="left">Hi 👋, I'm Omar Mohamed</h1>
-<h3 align="left">A professional MERN Stack Developer.</h3>
+<h3 align="left">A professional Javascript Full-Stack Developer.</h3>
 💫 About Me:<br/>
 👯 I’m looking to collaborate on full-stack projects and new tech opportunities.<br>🌱 I’m learning more about MERN Stack Development.<br>💬 Ask me anything about full-stack development.<br>⚡ Fun fact: I started coding at 11 and have built several apps already!
 
