@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Omar Mohamed</h1>
 <h3 align="left">A professional Javascript Full-Stack Developer.</h3>
 💫 About Me:<br/>
-👯 I’m looking to collaborate on full-stack projects and new tech opportunities.<br>🌱 I’m learning more about MERN Stack Development.<br>💬 Ask me anything about full-stack development.<br>⚡ Fun fact: I started coding at 11 and have built several apps already!
+👯 I’m looking to collaborate on full-stack projects and new tech opportunities.<br>🌱 I’m learning more about Javascript Full-Stack Development.<br>💬 Ask me anything about full-stack development.<br>⚡ Fun fact: I started coding at 11 and have built several apps already!
 
 
 ## 🌐 Socials:
